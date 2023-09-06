@@ -15,7 +15,7 @@ public class AbrBusinessTest extends BaseClass {
 		callAbnLookUp.enterInSearchField("Automic PTY LTD");
 		callAbnLookUp.clickOnSearch();
 		callAbnLookUp.assertTheSearchResult("27 152 260 814", "Active");
-
+		
 		callAbnLookUp.gotoAbrBusinessMainPage();
 		callAbnLookUp.enterInSearchField("MARIO BROS PTY LTD");
 		callAbnLookUp.clickOnSearch();
