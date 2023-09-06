@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-06T13:12:38 AEST" name="Default suite" finished-at="2023-09-06T13:12:59 AEST" duration-ms="20750">
+    <groups>
+    </groups>
+    <test started-at="2023-09-06T13:12:38 AEST" name="Default test" finished-at="2023-09-06T13:12:59 AEST" duration-ms="20750">
+      <class name="tests.AbrBusinessTest">
+        <test-method is-config="true" signature="beforeAllTheTest()[pri:0, instance:tests.AbrBusinessTest@563f38c4]" started-at="2023-09-06T13:12:38 AEST" name="beforeAllTheTest" finished-at="2023-09-06T13:12:38 AEST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTheTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.AbrBusinessTest@563f38c4]" started-at="2023-09-06T13:12:38 AEST" name="setUp" finished-at="2023-09-06T13:12:40 AEST" duration-ms="2300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="abnLookUptest()[pri:0, instance:tests.AbrBusinessTest@563f38c4]" started-at="2023-09-06T13:12:40 AEST" name="abnLookUptest" finished-at="2023-09-06T13:12:58 AEST" duration-ms="18121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abnLookUptest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AbrBusinessTest@563f38c4]" started-at="2023-09-06T13:12:58 AEST" name="tearDown" finished-at="2023-09-06T13:12:59 AEST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterAllTheTests()[pri:0, instance:tests.AbrBusinessTest@563f38c4]" started-at="2023-09-06T13:12:59 AEST" name="afterAllTheTests" finished-at="2023-09-06T13:12:59 AEST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTheTests -->
+      </class> <!-- tests.AbrBusinessTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
